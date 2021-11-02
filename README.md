@@ -1,4 +1,4 @@
-# HEllo there, this is my presentation card on GitHub!
+# Hello there, this is my presentation card on GitHub!
 
 ## Currículum Vitae
 
